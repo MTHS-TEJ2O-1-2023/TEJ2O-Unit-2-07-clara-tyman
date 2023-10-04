@@ -9,8 +9,7 @@ basic.showIcon(IconNames.Happy)
 basic.clearScreen()
 
 // variable
-let cookie: number
-cookie = 0
+let cookie: number = 0
 
 // input
 input.onButtonPressed(Button.A, function () {
