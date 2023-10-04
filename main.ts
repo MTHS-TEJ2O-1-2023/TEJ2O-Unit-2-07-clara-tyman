@@ -8,9 +8,6 @@
 basic.showIcon(IconNames.Happy)
 basic.clearScreen()
 
-basic.clearScreen()
-basic.showIcon(IconNames.Happy)
-
 // variable
 let cookie: number
 cookie = 0
